@@ -2,7 +2,7 @@
 
 This repository contains tutorial materials for the introductory PyTorch lectures in [STAT 8056](http://users.stat.umn.edu/~xshen/stat8056.htm), Department of Statistics, University of Minnesota.
 
-A complementary Google Colab notebook is available here: [Google Colab Notebook]([https://colab.research.google.com/drive/1N2F-X4Q9-9Dr-zuUNMPUZQb8of3HMHc5?usp=sharing](https://drive.google.com/file/d/1XBkkSb6RiXxsQ-fyiATGaFIiRiIIfmBd/view?usp=sharing)).
+A complementary Google Colab notebook is available here: [Google Colab Notebook]([https://colab.research.google.com/drive/1N2F-X4Q9-9Dr-zuUNMPUZQb8of3HMHc5?usp=sharing]).
 
 ## Topics Covered
 
